@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Learning Resources
+title: Who is the Actuary?
 category: resources
 permalink: /resources
 ---
