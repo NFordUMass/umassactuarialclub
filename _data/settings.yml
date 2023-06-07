@@ -11,7 +11,7 @@ menu:
 - {name: 'About',              url: 'about'}
 - {name: 'Who is the Actuary?', url: 'resources'}
 # Don't need Sample Posts for now
-# - {name: 'Sample Posts',       url: 'sample-posts'}
+- {name: 'Sample Posts',       url: 'sample-posts'}
 - {name: 'Join Us!',      url: 'documentation'}
 - {name: 'Contact',            url: 'contact'}
 

@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Documentation
+title: Join Us!
 category: documentation
 permalink: /documentation
 ---
