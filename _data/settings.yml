@@ -11,8 +11,8 @@ menu:
 - {name: 'About',              url: 'about'}
 - {name: 'Who is the Actuary?', url: 'resources'}
 # Don't need Sample Posts for now
-- {name: 'Sample Posts',       url: 'sample-posts'}
-- {name: 'Join Us!',      url: 'documentation'}
+- {name: 'Events',             url: 'events'}
+- {name: 'Join Us!',           url: 'documentation'}
 - {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
