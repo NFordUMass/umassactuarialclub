@@ -1,6 +1,6 @@
 ---
-layout: category
+layout: page
 title: Home
-category: facts
+# category: facts
 permalink: /facts
 ---
