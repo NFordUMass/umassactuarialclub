@@ -1,6 +1,5 @@
 ---
-layout: category
+layout: page
 title: Join Us!
-category: documentation
-permalink: /documentation
+permalink: /join
 ---
