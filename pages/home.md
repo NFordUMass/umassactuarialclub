@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Home
+title: Welcome!
 permalink: /home
-image1: city-1.jpg
 ---
+# Index.md is working!
+
 ## Mission Statement
 Umass's Student 
 - Networking
