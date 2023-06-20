@@ -7,7 +7,7 @@ permalink: /join
 <!-- maybe add CSS styling for photo to extend along whole website width? -->
 
 <!-- TODO figure out weekly meeting dates -->
-Join our [mailing list](https://forms.gle/Uz7Szg4BU6JziX1HA){:target="_blank"}!
+Join our [mailing list](http://eepurl.com/hbDPgb){:target="_blank"}!
 We have weekly meetings in ISB 145!
 
 ### Math major? Non-math major? All are welcome!
