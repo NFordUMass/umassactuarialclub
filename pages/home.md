@@ -12,15 +12,35 @@ Umass's Student
 - Exam Support
 <!-- link for "Join Us!" -->
 
-## Current Officers
+## Meet the Team!
+<!-- TODO make this section nicer! -->
 <!-- make page for current officers scrape linkedin and position -->
+<!-- TODO fill out rest of this section! -->
+Our officers for 2023-2024 are
+
+President - Molly Murtagh 
+- Molly is a rising senior majoring in Math, with an Actuarial concentration <br>
+[link to email](mailto:mfmurtagh@umass.edu){:target="_blank"}
+
+Vice President - Noah Ford
+
+Director of Operations - Olivia Sousa
+
+Director of Finance - Liam Donovan
+
+Director of Communications - Lucie Barone
+
+Director of Management Information Systems (MIS) - Jonathan Eng
+
+Director of Career Development/Director of External Affairs/Outreach - Sara Glaser
 
 ## What is Gamma Iota Sigma?
 
 ## Exam Fund!
+<!-- Image doesn't load outside of local host -->
 ![Look at the city!](/assets/img/BobLynnePollackLogo.png)
 
+<!-- TODO link to separate page? -->
 ## Where we go
-<!-- list a bunch of companies here where students have gone -->
-
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+<!-- TODO list a bunch of companies here where students have gone -->
+Our alumni have gone
