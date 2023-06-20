@@ -9,8 +9,8 @@ google-ID: 'UA-112060364-2'
 menu:
 - {name: 'Home',               url: 'home'}
 # Don't need Sample Posts for now
-- {name: 'Resources',          url: 'resources'}
 - {name: 'Career',             url: 'career'}
+- {name: 'Resources',          url: 'resources'}
 - {name: 'Join Us!',           url: 'join'}
 - {name: 'Contact',            url: 'contact'}
 

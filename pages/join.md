@@ -1,25 +1,23 @@
 ---
 layout: page
-title: Join Us!
+title: Get Involved!
 permalink: /join
 ---
 <!-- TODO include landmark photo here -->
 <!-- maybe add CSS styling for photo to extend along whole website width? -->
 
 <!-- TODO figure out weekly meeting dates -->
-Join our [mailing list](http://eepurl.com/hbDPgb){:target="_blank"}!
-We have weekly meetings in ISB 145!
+Join our 50+ members in the fastest growing club in the Math Department!  We have weekly meetings in the ISB with events like guest speakers, resume workshops, alumni networking, and more!
 
-### Math major? Non-math major? All are welcome!
+<!-- TODO link to our real instagram -->
+Check out some recent events here on our [instagram](https://instagram.com/paululele){:target="_blank"}!
 
+<!-- TODO include clickbait internship posting drop here -->
+### Mailing List
+Do you love career resources?  Opportunities to connect with peers?  Early access to job postings? Then subscribe to our [mailing list](http://eepurl.com/hbDPgb){:target="_blank"}!
 
+### Math major? Non-math major? 
+All are welcome!  We promote career development, technical skill growth, and networking regardless of your major or future interests!
 
-
-How much of a time commitment is BUILD?
-We expect developers to put in from 2-4 hours of work a week. We take it easy during exam weeks.
-
-Do we get paid?
-BUILD is a pro-bono organization and this club is dedicated to community work.
-
-How much experience do I need to join?
-BUILD is open to all years and all majors. We do expect software developers to have succeeded in CS187.
+### Experience required?
+Only the experience of wanting to learn and grow!
