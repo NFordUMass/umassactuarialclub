@@ -3,15 +3,18 @@ layout: page
 title: Resources
 permalink: /resources
 ---
+<!-- TODO make nice scholarship timeline -->
 ## Scholarships
 Insurance companies and societies love to throw money at actuarial majors.
 Check out scholarships here:
 - [Be An Actuary](https://www.beanactuary.org/college-study/scholarships/){:target="_blank"}
+    - Great website resource for all things actuarial
 - [Spencer Scholarships](https://www.spencered.org/scholarships){:target="_blank"}
+    - $5,000 scholarship, applications open October through January
 - [WSIA Internship Scholars](https://www.wsia.org/wcm/Talent_Development__and___U40/Internship_Program/wcm/Internship___U40/Internships/WSIA_Internships.aspx){:target="_blank"}
 
 ## Internships
-The hallmark of the actuarial summer is a high paying internship ($22+/hour) in a beautiful city working with bright peers and wise industry professionals.
+The hallmark of the actuarial summer is a high paying internship ($22+/hour) in a beautiful city working with bright peers and industry professionals.
 
 <!-- Add internship  -->
 ### Finding an Internship
