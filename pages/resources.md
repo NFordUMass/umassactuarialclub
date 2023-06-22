@@ -7,11 +7,15 @@ permalink: /resources
 ## Scholarships
 Insurance companies and societies love to throw money at actuarial majors.
 Check out scholarships here:
+<!-- TODO change to acutarial foundation -->
 - [Be An Actuary](https://www.beanactuary.org/college-study/scholarships/){:target="_blank"}
     - Great website resource for all things actuarial
 - [Spencer Scholarships](https://www.spencered.org/scholarships){:target="_blank"}
     - $5,000 scholarship, applications open October through January
 - [WSIA Internship Scholars](https://www.wsia.org/wcm/Talent_Development__and___U40/Internship_Program/wcm/Internship___U40/Internships/WSIA_Internships.aspx){:target="_blank"}
+    - $5,000 scholarship with internship, applications open in August
+- [Many more!](https://www.beanactuary.org/college-study/scholarships/){:target="_blank"}
+    - Be An Actuary, a great site for all things actuarial
 
 ## Internships
 The hallmark of the actuarial summer is a high paying internship ($22+/hour) in a beautiful city working with bright peers and industry professionals.
@@ -39,6 +43,7 @@ Actuarial Exams are in a word... grueling!<br> However, past the struggle, lie e
 The best part about going to UMass?  It's not the [number one dining](https://www.umass.edu/news/article/umass-amherst-ranked-no-1-best-campus-food-sixth-year){:target="_blank"}, or the fellow students, or the faculty.  No, it's the reimbursed exams.
 
 ### Bob and Lynne Pollack Actuarial Exam Fund <br>
+![Actuarial Exam Fund!](/assets/img/BobLynnePollackLogo.png)
 <!-- add image here for exam fund! -->
 For any of your first three exams...
 - Passing score? 100% reimbursed exam + study materials (up to $500 total)!
