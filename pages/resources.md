@@ -28,8 +28,12 @@ It's not rocket science, just find jobs on google, linkedin, indeed, or any job 
     - Dozens of employers come to recruit you!
 - Linkedin
     - Follow our [linkedin](https://www.linkedin.com/company/umass-gis-beta-chi/about/?viewAsMember=true){:target="_blank"} page where you can get connected to alumni across the industry!
-- GIS
-    - For members of our Beta Chi Chapter, the GIS website has links to job postings only available to members!
+- GIS National Chapter
+    - For members of our Beta Chi Chapter, the [GIS website](https://careercenter.gammaiotasigma.org/jobs?keywords=internship){:target="_blank"} has links to job postings only available to members!
+- CAS Student Central
+    - [Join](https://www.casstudentcentral.org/classroom-to-credentials/about-cas-student-central/){:target="_blank"} the free membership program of *CAS* which has internship postings, resources to connect with current professionals, webinars, and scholarships
+- SOA Affiliate Membership
+    - [Join](https://www.soa.org/future-actuaries/affiliate-membership/){:target="_blank"} the equivalent for *SOA*
 
 ### Resume Help
 <!-- TODO add template resume, link Etched Actuary -->
