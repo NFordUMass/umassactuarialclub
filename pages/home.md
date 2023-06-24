@@ -15,9 +15,9 @@ UMass organization of students in interested in acturial science, insurance, and
 <!-- TODO fix room number -->
 ### What do we do?
 [Join us](join) in our weekly meetings in [TBD room] on [TBD day of week] we
-- **Network** with guest speakers and alumni across
-- Hold resume workshops and events helping with **job applications**
-- Host an annual **career fair** in October  
+- Network with guest speakers and alumni across
+- Hold resume workshops and events helping with job applications
+- Host an annual career fair in October  
 
 ### Is this a frat?
 Not really... GIS is an organization for actuarial, insurance, and risk management professionals.  We are the UMass GIS chapter, Beta Chi.
