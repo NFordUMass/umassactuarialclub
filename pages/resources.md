@@ -58,6 +58,7 @@ For any of your first three exams...
 
 ### Study recommendations
 <!-- TODO include logo above-->
+<img src="/assets/img/CAsLogo.png" alt="Coaching Actuaries Logo"/><br>
 [Coaching Actuaries](https://www.coachingactuaries.com/){:target="_blank"} is a phenomenal online prep course (with video lessons, practice quizzes) which all but guarantees you will pass the exam.
 
 Now, we're legally obligated to mention that we are not sponsored.  However, if we could sell-out to one company, it would be to Coaching Actuaries.

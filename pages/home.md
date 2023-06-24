@@ -34,7 +34,7 @@ We're excited you're here! [Next steps to join!](join)
 <!-- TODO link to a separate markdown page -->
 <!-- make page for current officers scrape linkedin and position -->
 <!-- TODO fill out rest of this section! -->
-### [Meet the Team!](team)
+### Meet the Team!
 Check out our [officers and members](team) for 2023-2024!
 
 
