@@ -10,7 +10,7 @@ permalink: /join
 Join our 50+ members in the fastest growing club in the Math Department!  We have weekly meetings in the ISB with events like guest speakers, resume workshops, alumni networking, and more!
 
 <!-- TODO link to our real instagram -->
-Check out some recent events here on our [instagram](https://instagram.com/paululele){:target="_blank"}!
+Check out some recent events here on our [instagram](https://www.instagram.com/umassactuarialclub/){:target="_blank"}!
 
 <!-- TODO include clickbait internship posting drop here -->
 ### Mailing List

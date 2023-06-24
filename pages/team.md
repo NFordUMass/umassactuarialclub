@@ -4,9 +4,11 @@ title: Current Officers
 permalink: /team
 ---
 
+<!-- TODO add emails + bios -->
 President - Molly Murtagh 
-- Molly is a rising senior majoring in Math, with an Actuarial concentration <br>
-[link to email](mailto:mfmurtagh@umass.edu){:target="_blank"}
+<!-- - Molly is a rising senior majoring in Math, with an Actuarial concentration <br>
+[link to email](mailto:mfmurtagh@umass.edu){:target="_blank"} -->
+
 
 Vice President - Noah Ford
 
@@ -18,4 +20,4 @@ Director of Communications - Lucie Barone
 
 Director of Management Information Systems (MIS) - Jonathan Eng
 
-Director of Career Development/Director of External Affairs/Outreach - Sara Glaser -->
+Director of Career Development/Director of External Affairs/Outreach - Sara Glaser
