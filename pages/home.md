@@ -1,46 +1,43 @@
 ---
 layout: page
-title: Welcome!
+title: Scholarships. Internships. Career.
+subtitle: Beta Chi
 permalink: /home
 ---
-# Index.md is working!
+<!-- TODO big spell check -->
 
-## Mission Statement
-Umass's Student 
-- Networking
-- Career Advancement
-- Exam Support
-<!-- link for "Join Us!" -->
+<img src="/assets/img/umassGISLogo.jpg" alt="UMass GIS Logo" style="height: 480px; width:1080px;"/>
 
-## Meet the Team!
-<!-- TODO make this section nicer! -->
+## Beta Chi -- UMass's Gamma Iota Sigma Chapter
+### Who are we?
+UMass organization of students in interested in acturial science, insurance, and/or risk management!
+
+<!-- TODO fix room number -->
+### What do we do?
+[Join us](join) in our weekly meetings in [TBD room] on [TBD day of week] we
+- **Network** with guest speakers and alumni across
+- Hold resume workshops and events helping with **job applications**
+- Host an annual **career fair** in October  
+
+### Is this a frat?
+Not really... GIS is an organization for actuarial, insurance, and risk management professionals.  We are the UMass GIS chapter, Beta Chi.
+
+### Never heard of the Actuarial Career?
+Check out our [career](career) page!
+
+### Looking for scholarships, internships, or exam reimbursements?
+Everything you need on our [resources](resources) page!
+
+### Get involved!
+We're excited you're here! [Next steps to join!](join)
+
+<!-- TODO link to a separate markdown page -->
 <!-- make page for current officers scrape linkedin and position -->
 <!-- TODO fill out rest of this section! -->
-Our officers for 2023-2024 are
+### [Meet the Team!](team)
+Check out our [officers and members](team) for 2023-2024!
 
-President - Molly Murtagh 
-- Molly is a rising senior majoring in Math, with an Actuarial concentration <br>
-[link to email](mailto:mfmurtagh@umass.edu){:target="_blank"}
 
-Vice President - Noah Ford
-
-Director of Operations - Olivia Sousa
-
-Director of Finance - Liam Donovan
-
-Director of Communications - Lucie Barone
-
-Director of Management Information Systems (MIS) - Jonathan Eng
-
-Director of Career Development/Director of External Affairs/Outreach - Sara Glaser
-
-## What is Gamma Iota Sigma?
-
-## Exam Fund!
-<!-- Image doesn't load outside of local host -->
-![Look at the city!](/assets/img/BobLynnePollackLogo.png)
-
-<!-- TODO link to separate page? -->
-## Where we go
 <!-- TODO list a bunch of companies here where students have gone -->
-Our alumni have gone
+### Where we go
+Our members dominate the workforce, ending up in the best companies in many industries!
