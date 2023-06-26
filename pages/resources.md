@@ -38,7 +38,6 @@ It's not rocket science, just find jobs on google, linkedin, indeed, or any job 
 ### Resume Help
 <!-- TODO add template resume, link Etched Actuary -->
 Check out our template actuarial resume or these resources below!
-- 
 
 ## Exams
 Actuarial Exams are in a word... grueling!<br> However, past the struggle, lie engaging and challenging topics of Probability, Financial Mathematics, Statistical modeling, and more!
@@ -47,7 +46,7 @@ Actuarial Exams are in a word... grueling!<br> However, past the struggle, lie e
 The best part about going to UMass?  It's not the [number one dining](https://www.umass.edu/news/article/umass-amherst-ranked-no-1-best-campus-food-sixth-year){:target="_blank"}, or the fellow students, or the faculty.  No, it's the reimbursed exams.
 
 ### Bob and Lynne Pollack Actuarial Exam Fund <br>
-![Actuarial Exam Fund!](/assets/img/BobLynnePollackLogo.png)
+![Actuarial Exam Fund!](/umassactuarialclub/assets/img/BobLynnePollackLogo.png)
 <!-- add image here for exam fund! -->
 For any of your first three exams...
 - Passing score? 100% reimbursed exam + study materials (up to $500 total)!
@@ -59,6 +58,7 @@ For any of your first three exams...
 ### Study recommendations
 <!-- TODO include logo above-->
 <img src="/assets/img/CAsLogo.png" alt="Coaching Actuaries Logo"/><br>
+
 [Coaching Actuaries](https://www.coachingactuaries.com/){:target="_blank"} is a phenomenal online prep course (with video lessons, practice quizzes) which all but guarantees you will pass the exam.
 
 Now, we're legally obligated to mention that we are not sponsored.  However, if we could sell-out to one company, it would be to Coaching Actuaries.
