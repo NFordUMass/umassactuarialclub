@@ -7,7 +7,7 @@ permalink: /resources
 ## Scholarships
 Insurance companies and societies love to throw money at actuarial majors.
 Check out scholarships here:
-<!-- TODO change to acutarial foundation -->
+<!-- TODO change to actuarial foundation -->
 - [Be An Actuary](https://www.beanactuary.org/college-study/scholarships/){:target="_blank"}
     - Great website resource for all things actuarial
 - [Spencer Scholarships](https://www.spencered.org/scholarships){:target="_blank"}
@@ -75,7 +75,7 @@ The UMass Actuarial Club is also known as the Beta Chi chapter of the [Gamma Iot
 
 Gamma Iota Sigma, or GIS, connects you to thousands of industry professionals across the actuarial, insurance, and risk management landscape.
 
-UMass Actuarial Club members are eligble to apply for membership in our chapter during our Fall and Spring application seasons!
+UMass Actuarial Club members are eligible to apply for membership in our chapter during our Fall and Spring application seasons!
 
 ### Actuarial Societies
 Professional Actuaires belong to two societies:

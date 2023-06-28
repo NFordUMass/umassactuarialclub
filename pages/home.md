@@ -10,7 +10,7 @@ permalink: /home
 
 ## Beta Chi -- UMass's Gamma Iota Sigma Chapter
 ### Who are we?
-UMass organization of students in interested in acturial science, insurance, and/or risk management!
+UMass organization of students in interested in actuarial science, insurance, and/or risk management!
 
 <!-- TODO fix room number -->
 ### What do we do?

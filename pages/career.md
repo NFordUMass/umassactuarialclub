@@ -17,7 +17,7 @@ Actuaries evolve like Pokemon, leveling up their income with the passage of each
 Check out full membership pathways to [SOA](https://www.soa.org/education/exam-req/default/){:target="_blank"} and [CAS](https://www.casact.org/exams-admissions/exams){:target="_blank"}
 
 ### CAS and SOA
-Professional Actuaires belong to two societies:
+Professional Actuaries belong to two societies:
 - [Society of Actuaries (SOA)](https://www.soa.org/member/){:target="_blank"}, Life and Health insurance
 - [Casualty Actuarial Society (CAS)](https://www.casact.org/){:target="_blank"}, Property and Casualty insurance
 <br> 
