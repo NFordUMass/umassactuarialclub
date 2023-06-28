@@ -6,7 +6,7 @@ permalink: /home
 ---
 <!-- TODO big spell check -->
 
-<img src="/../assets/img/umassGISLogo.jpg" alt="UMass GIS Logo" style="height: 480px; width:1080px;"/>
+![UMass GIS Logo](/assets/img/umassGISLogo.jpg)
 
 ## Beta Chi -- UMass's Gamma Iota Sigma Chapter
 ### Who are we?
