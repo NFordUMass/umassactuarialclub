@@ -46,7 +46,7 @@ Actuarial Exams are in a word... grueling!<br> However, past the struggle, lie e
 The best part about going to UMass?  It's not the [number one dining](https://www.umass.edu/news/article/umass-amherst-ranked-no-1-best-campus-food-sixth-year){:target="_blank"}, or the fellow students, or the faculty.  No, it's the reimbursed exams.
 
 ### Bob and Lynne Pollack Actuarial Exam Fund <br>
-![Actuarial Exam Fund!](/assets/img/BobLynnePollackLogo.png)
+![Actuarial Exam Fund!](https://nfordumass.github.io/umassactuarialclub//assets/img/BobLynnePollackLogo.png)
 <!-- add image here for exam fund! -->
 For any of your first three exams...
 - Passing score? 100% reimbursed exam + study materials (up to $500 total)!
@@ -57,7 +57,7 @@ For any of your first three exams...
 
 ### Study recommendations
 <!-- TODO include logo above-->
-![Coaching Actuaries Logo](/assets/img/CAsLogo.png)
+![Coaching Actuaries Logo](https://nfordumass.github.io/umassactuarialclub//assets/img/CAsLogo.png)
 
 <!-- <img src="/../assets/img/CAsLogo.png" alt="Coaching Actuaries Logo"/><br> -->
 
