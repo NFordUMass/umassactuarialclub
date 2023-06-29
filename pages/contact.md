@@ -10,6 +10,5 @@ Please send us an email at [umass.gis@gmail.com](mailto:umass.gis@gmail.com){:ta
 ### Looking to connect?
 Join our [linkedin](https://www.linkedin.com/company/umass-gis-beta-chi/about/?viewAsMember=true){:target="_blank"} of 100+ students and alumni!
 
-<!-- Fix link!! -->
 ### Can't get enough UMass GIS Content?
-Follow us on [Instagram](https://instagram.com/paululele){:target="_blank"} for updates on club events!
+Follow us on [Instagram](https://www.instagram.com/umassactuarialclub/){:target="_blank"} for updates on club events!
