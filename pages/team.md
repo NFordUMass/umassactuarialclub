@@ -35,4 +35,4 @@ Class '24, Mathematics
 
 ### Director of Management Information Systems (MIS) - Jonathan Eng
 
-Class '25, Mathematics
+Class '24, Mathematics
