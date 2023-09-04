@@ -5,8 +5,6 @@ subtitle: Beta Chi
 permalink: /
 ---
 
-<!-- TODO big spell check -->
-
 ![UMass GIS Logo](https://nfordumass.github.io/umassactuarialclub/assets/img/umassGISLogo.jpg)
 
 ## Beta Chi -- UMass's Gamma Iota Sigma Chapter
@@ -19,7 +17,7 @@ UMass organization of students in interested in actuarial science, insurance, an
 
 ### What do we do?
 
-[Join us](join) in our weekly meetings in [TBD room] on [TBD day of week] we
+[Join us](join) in our weekly meetings in [TBD room] on Wednesday we
 
 - Network with guest speakers and alumni across
 - Hold resume workshops and events helping with job applications
@@ -41,15 +39,11 @@ Everything you need on our [resources](resources) page!
 
 We're excited you're here! [Next steps to join!](join)
 
-<!-- TODO link to a separate markdown page -->
-<!-- make page for current officers scrape linkedin and position -->
-<!-- TODO fill out rest of this section! -->
-
 ### Meet the Team!
 
-Check out our [officers and members](team) for 2023-2024!
+Check out our [officers](team) for 2023-2024!
 
-<!-- TODO list a bunch of companies here where students have gone -->
+<!-- TODO company carousel images -->
 
 ### Where we go
 
