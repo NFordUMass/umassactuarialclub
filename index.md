@@ -5,7 +5,7 @@ subtitle: Beta Chi
 permalink: /
 ---
 
-![UMass GIS Logo](https://nfordumass.github.io/umassactuarialclub/assets/img/umassGISLogo.jpg)
+<img src="https://nfordumass.github.io/umassactuarialclub//assets/img/umassGISLogo.jpg" alt="UMass GIS Logo" style="width:100%;height:100%;">
 
 ## Beta Chi -- UMass's Gamma Iota Sigma Chapter
 
